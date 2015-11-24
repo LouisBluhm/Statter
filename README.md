@@ -9,3 +9,8 @@
 ```python
 python statter.py data.txt
 ```
+
+This saves the following to the data.txt file:
+1.	Username 1
+2.	Followers 2
+3.	Tweets	3
