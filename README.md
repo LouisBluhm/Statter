@@ -6,5 +6,6 @@
 3.  >> 'python statter.py data.txt' 3
 4.  Extract Twitter data from the data.txt file 4
 
-E.g.
-	python statter.py data.txt
+```python
+python statter.py data.txt
+```
